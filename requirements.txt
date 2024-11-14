@@ -1,0 +1,8 @@
+streamlit
+rdkit
+pandas
+scikit-learn
+numpy
+joblib
+pickle
+requests
