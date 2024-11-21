@@ -28,7 +28,7 @@ st.markdown(
     """
     <style>
     .intro-text { 
-        font-size: 18px; 
+        font-size: 14px; 
         color: #2c3e50;
         background-color: #ecf0f1; 
         padding: 15px;
